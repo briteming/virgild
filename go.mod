@@ -1,4 +1,4 @@
-module virgild
+module github.com/briteming/virgild
 
 go 1.16
 
